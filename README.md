@@ -1,7 +1,7 @@
 - 👋 Hello World, I’m Orkun;
 - 👀 I love math, programming, digital gaming, data science and AI;
 - 🌱 I’m addicted to learning and developing myself. I am trying to growing every day;
-- 💞️ I’m currently working on Unity and digital gaming. Also I am working on AI and Data Science;
+- 💞️ I’m currently working on Unity and digital gaming. Also I am working on JAVA;
 - 📫 How to reach me ...
       :office: [LinkedIn](https://www.linkedin.com/in/orkun-kocak/)
            
