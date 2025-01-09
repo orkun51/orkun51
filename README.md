@@ -1,5 +1,5 @@
 - 👋 Hello World, I’m Orkun;
-- 🎉 lets cook
+
 - 📫 How to reach me ...
       :office: [LinkedIn](https://www.linkedin.com/in/orkun-kocak/)
            
